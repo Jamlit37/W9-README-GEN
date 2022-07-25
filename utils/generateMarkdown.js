@@ -93,7 +93,7 @@ ${data.contribution ? data.contribution : "Not Applicable"}
 ## Tests
 ${data.test ? data.test : 'Not Applicable'}
 ## Questions
-Should you have any questions, please contact me via [GitHub](https://github.com/${data.username}) or by [email](mailto:${data.email})`
+If you would like to contact me or you have any questions, please reach me via [GitHub](https://github.com/${data.username}) or by [email](mailto:${data.email})`
 }
 
 // Exports the generate markdown function to be used in other files
