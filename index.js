@@ -43,7 +43,7 @@ const questions = [
     type: 'list',
     name: 'license',
     message: 'Please select the applicable license for your project out of the following:',
-    choices: ['Apache 2.0', 'Boost 1.0', 'BSD 3', 'GNU GPL v3', 'GNU AGPL v3', 'GNU LGPL v3', 'IBM', 'ISC', 'MIT', 'The Unlicense'],
+    choices: ['Apache 2.0', 'Boost 1.0',  'GNU GPL v3', 'GNU AGPL v3', 'GNU LGPL v3', 'MIT', 'Mozilla 2.0', 'The Unlicense'],
   },
   {
     type: 'input',
